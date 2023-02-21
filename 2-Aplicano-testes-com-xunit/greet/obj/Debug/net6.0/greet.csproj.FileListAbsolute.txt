@@ -3,13 +3,10 @@
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
-/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/bin/Debug/net6.0/greet
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/bin/Debug/net6.0/greet.deps.json
-/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/bin/Debug/net6.0/greet.runtimeconfig.json
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/bin/Debug/net6.0/greet.dll
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/bin/Debug/net6.0/ref/greet.dll
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/bin/Debug/net6.0/greet.pdb
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/greet.dll
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/ref/greet.dll
 /home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/greet.pdb
-/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet/obj/Debug/net6.0/greet.genruntimeconfig.cache
