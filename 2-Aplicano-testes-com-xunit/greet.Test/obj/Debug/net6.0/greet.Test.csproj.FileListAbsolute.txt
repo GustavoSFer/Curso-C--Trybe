@@ -1,0 +1,6 @@
+/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet.Test/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet.Test/obj/Debug/net6.0/greet.Test.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet.Test/obj/Debug/net6.0/greet.Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet.Test/obj/Debug/net6.0/greet.Test.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet.Test/obj/Debug/net6.0/greet.Test.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/2-Aplicano-testes-com-xunit/greet.Test/obj/Debug/net6.0/greet.Test.csproj.CoreCompileInputs.cache
