@@ -1,47 +1,21 @@
-﻿// Declaração fortemente tipada
-int x;
-decimal y;
-bool z;
+// ENTRADA DE DADOS
+Console.WriteLine("Boas vindas ao programa 'Calcula Lâmpada'!");
+Console.WriteLine("Informe o nome do comodo: ");
+string comodo = Console.ReadLine();
 
-// Tipo string
-string fraseDeUmLivro = "Ser ou não ser, eis a questão";
+Console.WriteLine("Informe em metros a largura deste comodo: ");
+decimal largura = decimal.Parse(Console.ReadLine());
 
-// Tipo Float
-float valorFloat = 100.0f; //obrigatório o uso do 'f' no final
+Console.WriteLine("Informe em metro o comprimento deste comodo: ");
+decimal comprimento = decimal.Parse(Console.ReadLine());
 
-// Tipo double
-double valorDouble = 10.0d; 
+Console.WriteLine("Informe a potencia em watts da lâmpada que será utilizada: ");
+int potencia = int.Parse(Console.ReadLine());
 
-// Tipo decimal
-decimal valorDecimal = 100.0M;
+// PROCESSAMENTO
+decimal metroQuadrado = largura * comprimento;
+decimal cocienteX = potencia / 18M;
+decimal totalDeLampadas = metroQuadrado / cocienteX;
 
-// Tipo char
-var letra = 'T';
-
-// Tipo implicito como string
-var curso = "Trybe - Aceleração c#";
-
-// tipo implicito como decimal
-var media = 6.53M;
-
-/*
-************************************
-*/
-
-//Declarando uma variável do tipo string ideal para dados literários e frases 
-string excerptFromBook = "Ser ou não ser, eis a questão";
-
-//Declarando uma variável float que pode armazenar um valor de ponto flutuante com precisão de até 7 digitos
-// O sufixo f informa o compilador que o valor é float
-float floatValue = 100.0f;
-
-//Declarando uma variável double que pode armazenar um valor de ponto flutuante com precisão de até 15 digitos
-// O sufixo d informa o compilador que o valor é um double
-double doubleValue = 100.0d;
-
-//Declarando uma variável decimal que pode armazenar um valor de ponto flutuante com precisão de até 29 digitos.
-// O sufixo M informa o compilador que o valor é um decimal
-decimal decimalValue = 100.0M;
-
-//Declarando uma variável char que pode armazenar um unico caractere.
-char letter = 'T'; 
+// SAIDA DE DADOS
+Console.WriteLine("Para iluminar o comodo" + comodo + " com " + metroQuadrado.ToString("N2") + " metros quadrados " + "Será necessario a instalação de " + totalDeLampadas.ToString("N2") + " lampada(s)");

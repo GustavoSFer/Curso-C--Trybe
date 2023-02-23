@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/bin/Debug/net6.0/variaveis
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/bin/Debug/net6.0/variaveis.deps.json
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/bin/Debug/net6.0/variaveis.runtimeconfig.json
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/bin/Debug/net6.0/variaveis.dll
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/bin/Debug/net6.0/ref/variaveis.dll
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/bin/Debug/net6.0/variaveis.pdb
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.dll
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/ref/variaveis.dll
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.pdb
+/home/gustavo/Trybe-C#/3-Conhecendo-os-tipos-de-C#/variaveis/obj/Debug/net6.0/variaveis.genruntimeconfig.cache
