@@ -1,12 +1,15 @@
 using Xunit;
+using FluentAssertions;
 
 namespace cast.Test;
 
 public class UnitTest1
 {
     [Fact]
-    public void Test1()
+    public void TestVariableCreation()
     {
-
+        Class1 instance = new();
+        var response = instance.someString is string;
+        response.Should().Be(true);
     }
 }

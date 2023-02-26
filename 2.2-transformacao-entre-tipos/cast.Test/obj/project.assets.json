@@ -1709,6 +1709,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "cast/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/cast.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/cast.dll": {}
+        }
       }
     }
   },
@@ -6090,12 +6100,18 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "cast/1.0.0": {
+      "type": "project",
+      "path": "../cast/cast.csproj",
+      "msbuildProject": "../cast/cast.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "FluentAssertions >= 6.5.1",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
+      "cast >= 1.0.0",
       "coverlet.collector >= 3.1.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6125,7 +6141,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/cast.csproj": {
+              "projectPath": "/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/cast.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

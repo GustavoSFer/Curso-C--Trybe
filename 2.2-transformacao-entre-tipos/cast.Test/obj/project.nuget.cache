@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "34CnidKMGjyTtmD18ZWkofCq8f3jngUav4Ig2NkMZLp0acne97KKdb+5PXSnNoWNaYF9ToXIFbF4/1utHIFwwQ==",
+  "dgSpecHash": "opYbTUeFNmb12NMboOPacyJfEFe97rxTjh25z87ajthLXuFGiCQxOZPbMYBiI35KOlJnM0g+e84+BXxgQ72kXA==",
   "success": true,
   "projectFilePath": "/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast.Test/cast.Test.csproj",
   "expectedPackageFiles": [
