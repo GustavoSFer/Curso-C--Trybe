@@ -1,0 +1,12 @@
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/bin/Debug/net6.0/cast.deps.json
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/bin/Debug/net6.0/cast.dll
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/bin/Debug/net6.0/ref/cast.dll
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/bin/Debug/net6.0/cast.pdb
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.dll
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/ref/cast.dll
+/home/gustavo/Trybe-C#/2.2-transformacao-entre-tipos/cast/obj/Debug/net6.0/cast.pdb
