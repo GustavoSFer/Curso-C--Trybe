@@ -1,0 +1,12 @@
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/bin/Debug/net6.0/triangulo.deps.json
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/bin/Debug/net6.0/triangulo.dll
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/bin/Debug/net6.0/ref/triangulo.dll
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/bin/Debug/net6.0/triangulo.pdb
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.dll
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/ref/triangulo.dll
+/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/obj/Debug/net6.0/triangulo.pdb

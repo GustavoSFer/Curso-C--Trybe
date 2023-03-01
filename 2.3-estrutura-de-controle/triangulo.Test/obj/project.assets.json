@@ -1709,6 +1709,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "triangulo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/triangulo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/triangulo.dll": {}
+        }
       }
     }
   },
@@ -6090,6 +6100,11 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "triangulo/1.0.0": {
+      "type": "project",
+      "path": "../triangulo/triangulo.csproj",
+      "msbuildProject": "../triangulo/triangulo.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6097,6 +6112,7 @@
       "FluentAssertions >= 6.5.1",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "coverlet.collector >= 3.1.0",
+      "triangulo >= 1.0.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
@@ -6125,7 +6141,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/triangulo.csproj": {
+              "projectPath": "/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo/triangulo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

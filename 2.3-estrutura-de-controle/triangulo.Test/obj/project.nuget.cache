@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WKKX9bBYD5ITpFqoiNJRuiKcxexrZ3PV+Ecv/NGcO+n/wbjaMXC9LlOOdL/4kZPyny5oi/n6BVyVJDSa3xn9mg==",
+  "dgSpecHash": "zYrUJffADoQ3Zw8zZC+8uF7d2jUJjjAglINwmbu2k9S1xuAo/kSZ5ADqS3JeVkcQRHUMathPmsoWumRgbaTkBA==",
   "success": true,
   "projectFilePath": "/home/gustavo/Trybe-C#/2.3-estrutura-de-controle/triangulo.Test/triangulo.Test.csproj",
   "expectedPackageFiles": [
