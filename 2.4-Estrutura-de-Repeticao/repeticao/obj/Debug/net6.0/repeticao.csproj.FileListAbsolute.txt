@@ -1,0 +1,12 @@
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/bin/Debug/net6.0/repeticao.deps.json
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/bin/Debug/net6.0/repeticao.dll
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/bin/Debug/net6.0/ref/repeticao.dll
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/bin/Debug/net6.0/repeticao.pdb
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.dll
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/ref/repeticao.dll
+/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao/obj/Debug/net6.0/repeticao.pdb

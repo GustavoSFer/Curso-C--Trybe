@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fovMgCHWgH99hwC2C5NXKiBUT2NkufXPy1s2m5UfOhRL4tBIUSc6lEjKqT6lw2HmbQ3pzL5IrKegANRPV45WpQ==",
+  "dgSpecHash": "P2A2rBBhpZRWa1rOZkl4H5d5a0ZjT+f4sc3mQVcC1YzomHQvGDpZDVYlixg5dRId518OTSk8YaXYyLEpk0xW3Q==",
   "success": true,
   "projectFilePath": "/home/gustavo/Trybe-C#/2.4-Estrutura-de-Repeticao/repeticao.Test/repeticao.Test.csproj",
   "expectedPackageFiles": [
     "/home/gustavo/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/fluentassertions/6.5.1/fluentassertions.6.5.1.nupkg.sha512",
     "/home/gustavo/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/home/gustavo/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",
@@ -36,6 +37,7 @@
     "/home/gustavo/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.collections.concurrent/4.3.0/system.collections.concurrent.4.3.0.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.console/4.3.0/system.console.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
@@ -78,6 +80,7 @@
     "/home/gustavo/.nuget/packages/system.security.cryptography.encoding/4.3.0/system.security.cryptography.encoding.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.security.cryptography.openssl/4.3.0/system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.security.cryptography.primitives/4.3.0/system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.security.cryptography.x509certificates/4.3.0/system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/home/gustavo/.nuget/packages/system.text.encoding.extensions/4.3.0/system.text.encoding.extensions.4.3.0.nupkg.sha512",
