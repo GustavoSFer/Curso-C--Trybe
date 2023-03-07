@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/bin/Debug/net6.0/funcao
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/bin/Debug/net6.0/funcao.deps.json
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/bin/Debug/net6.0/funcao.runtimeconfig.json
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/bin/Debug/net6.0/funcao.dll
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/bin/Debug/net6.0/ref/funcao.dll
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/bin/Debug/net6.0/funcao.pdb
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.dll
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/ref/funcao.dll
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.pdb
+/home/gustavo/Trybe-C#/3.2-funcao-em-csharp/funcao/obj/Debug/net6.0/funcao.genruntimeconfig.cache
