@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/bin/Debug/net6.0/execoes
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/bin/Debug/net6.0/execoes.deps.json
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/bin/Debug/net6.0/execoes.runtimeconfig.json
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/bin/Debug/net6.0/execoes.dll
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/bin/Debug/net6.0/ref/execoes.dll
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/bin/Debug/net6.0/execoes.pdb
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.dll
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/ref/execoes.dll
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.pdb
+/home/gustavo/Trybe-C#/3.3-execoes/execoes/obj/Debug/net6.0/execoes.genruntimeconfig.cache
