@@ -1,0 +1,12 @@
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/bin/Debug/net6.0/rocket.deps.json
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/bin/Debug/net6.0/rocket.dll
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/bin/Debug/net6.0/ref/rocket.dll
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/bin/Debug/net6.0/rocket.pdb
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.dll
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/ref/rocket.dll
+/home/gustavo/Trybe-C#/4.1-Abstracao-classe-em-c-sharp/rocket/obj/Debug/net6.0/rocket.pdb
