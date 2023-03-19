@@ -1,5 +1,5 @@
 ﻿class Program {
-  public void Main(string[] args) {
+  public static void Main(string[] args) {
     var movie = new Movie("Matrix", "Ficção Cientifica");
     var movie2 = new Movie("Senhor dos Aneis", "Fantasia");
 
