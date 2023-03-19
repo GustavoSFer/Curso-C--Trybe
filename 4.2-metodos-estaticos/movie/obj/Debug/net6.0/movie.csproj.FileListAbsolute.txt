@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/bin/Debug/net6.0/movie.deps.json
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/bin/Debug/net6.0/movie.dll
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/bin/Debug/net6.0/ref/movie.dll
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/bin/Debug/net6.0/movie.pdb
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.dll
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/ref/movie.dll
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.pdb
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/bin/Debug/net6.0/movie
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/bin/Debug/net6.0/movie.runtimeconfig.json
+/home/gustavo/Trybe-C#/4.2-metodos-estaticos/movie/obj/Debug/net6.0/movie.genruntimeconfig.cache
