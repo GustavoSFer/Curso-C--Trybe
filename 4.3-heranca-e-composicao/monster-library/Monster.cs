@@ -2,11 +2,13 @@
 {
   public string Name { get; set; }
 
-  public void Attack() {
+  public void Attack()
+  {
     Console.WriteLine($"{Name} has attacked");
   }
 
-  public void Move(string location) {
+  public void Move(string location)
+  {
     Console.WriteLine($"{Name} has moved to {location}");
   }
 }
