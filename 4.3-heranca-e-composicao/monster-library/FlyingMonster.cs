@@ -1,6 +1,5 @@
-public class FlyingMonster
+public class FlyingMonster : Monster
 {
-  public string Name { get; set; }
   public bool IsFlying { get; set; } = false;
 
   public void Fly()
