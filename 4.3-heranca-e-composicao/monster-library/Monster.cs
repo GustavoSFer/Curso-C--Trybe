@@ -1,6 +1,7 @@
 ﻿public class Monster
 {
   public string Name { get; set; }
+    Armor MonsterArmor { get; set; }
 
   public void Attack()
   {
