@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/bin/Debug/net6.0/animal-kingdom
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/bin/Debug/net6.0/animal-kingdom.deps.json
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/bin/Debug/net6.0/animal-kingdom.runtimeconfig.json
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/bin/Debug/net6.0/animal-kingdom.dll
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/bin/Debug/net6.0/ref/animal-kingdom.dll
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/bin/Debug/net6.0/animal-kingdom.pdb
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.dll
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/ref/animal-kingdom.dll
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.pdb
+/home/gustavo/Trybe-C#/4.4-polimorfismo-e-classe-abstrata/animal-kingdom/obj/Debug/net6.0/animal-kingdom.genruntimeconfig.cache
