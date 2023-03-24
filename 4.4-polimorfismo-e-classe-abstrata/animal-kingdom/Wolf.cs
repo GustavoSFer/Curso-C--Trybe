@@ -1,11 +1,7 @@
-public class Wolf
+public class Wolf : Animal
 {
-  public string ScientificName = "Canis lupus";
-  public bool CanEatMeat = true;
-  public bool CanEatVegetables = false;
+  public override string ScientificName => "Canis lupus";
+  public override bool CanEatMeat => true;
+  public override bool CanEatVegetables => false;
 
-  public void Eat()
-  {
-    Console.WriteLine("The wolf has eaten some meat");
-  }
 }
