@@ -13,5 +13,8 @@ public class B : A
 
     // Não permite a gente fazer isso
     //  a.item = "Acessando o item";
+
+    // Porém, como B deriva de A, podemos acessar essa propriedade em B:
+    b.item = "Desta forma temos acesso";
   }
 }
