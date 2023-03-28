@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public enum PaymentType
+{
+  credit,
+  debit
+}
+
+public static class Program
+{
+  public static void Main()
+  {
+
+  }
+}
