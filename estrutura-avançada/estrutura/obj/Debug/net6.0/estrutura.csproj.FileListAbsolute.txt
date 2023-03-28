@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/bin/Debug/net6.0/estrutura
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/bin/Debug/net6.0/estrutura.deps.json
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/bin/Debug/net6.0/estrutura.runtimeconfig.json
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/bin/Debug/net6.0/estrutura.dll
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/bin/Debug/net6.0/ref/estrutura.dll
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/bin/Debug/net6.0/estrutura.pdb
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.dll
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/ref/estrutura.dll
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.pdb
+/home/gustavo/Trybe-C#/estrutura-avançada/estrutura/obj/Debug/net6.0/estrutura.genruntimeconfig.cache
