@@ -21,6 +21,22 @@
     Console.WriteLine(index2);
     int index3 = text.IndexOf('o', 5);
     Console.WriteLine(index3);
+
+
+    // Verificar se uma string contem em uma lista
+    List<string> Languagues = new List<string>
+    {
+      "C#", "Java", "JavaScript", "Python"
+    };
+    string verificar = "Java";
+    bool stringExist = Languagues.Contains(verificar);
+
+    Console.WriteLine(stringExist);
+
+    string verificar2 = "PHP";
+    bool stringExist2 = Languagues.Contains(verificar2);
+
+    Console.WriteLine(stringExist2);
   }
 
   // Contatenação de string
