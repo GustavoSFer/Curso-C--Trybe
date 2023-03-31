@@ -13,6 +13,12 @@
 
     Console.WriteLine(arrayEmaisl[0]);
     Console.WriteLine(arrayEmaisl.Length);
+
+    string text = "Procurando o index na string";
+    int index = text.IndexOf('u');
+    Console.WriteLine(index);
+    int index2 = text.IndexOf('s');
+    Console.WriteLine(index2);
   }
 
   // Contatenação de string
