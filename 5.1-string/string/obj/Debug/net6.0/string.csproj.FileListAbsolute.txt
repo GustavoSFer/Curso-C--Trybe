@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/5.1-string/string/bin/Debug/net6.0/string
+/home/gustavo/Trybe-C#/5.1-string/string/bin/Debug/net6.0/string.deps.json
+/home/gustavo/Trybe-C#/5.1-string/string/bin/Debug/net6.0/string.runtimeconfig.json
+/home/gustavo/Trybe-C#/5.1-string/string/bin/Debug/net6.0/string.dll
+/home/gustavo/Trybe-C#/5.1-string/string/bin/Debug/net6.0/ref/string.dll
+/home/gustavo/Trybe-C#/5.1-string/string/bin/Debug/net6.0/string.pdb
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.dll
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/ref/string.dll
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.pdb
+/home/gustavo/Trybe-C#/5.1-string/string/obj/Debug/net6.0/string.genruntimeconfig.cache
