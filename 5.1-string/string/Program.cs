@@ -19,6 +19,8 @@
     Console.WriteLine(index);
     int index2 = text.IndexOf('s');
     Console.WriteLine(index2);
+    int index3 = text.IndexOf('o', 5);
+    Console.WriteLine(index3);
   }
 
   // Contatenação de string
