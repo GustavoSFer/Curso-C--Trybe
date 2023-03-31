@@ -5,17 +5,28 @@
     var concatenandoString = new Concat("Olá ", "Mundo!!");
     Console.WriteLine(concatenandoString.Concatenando());
 
+
+    // Separando string
+    string emails = "email1@trybe.com;email2@trybe.com;email3@trybe.com;gustavp@gmail.com";
+
+    string[] arrayEmaisl = emails.Split(";");
+
+    Console.WriteLine(arrayEmaisl[0]);
+    Console.WriteLine(arrayEmaisl.Length);
   }
 
   // Contatenação de string
-  public class Concat {
+  public class Concat
+  {
     string TextOne;
     string TextTwo;
-    public Concat(string textOne, string textTwo) {
+    public Concat(string textOne, string textTwo)
+    {
       TextOne = textOne;
       TextTwo = textTwo;
     }
-    public string Concatenando() {
+    public string Concatenando()
+    {
       string result = string.Concat(TextOne, TextTwo);
       return result;
     }
