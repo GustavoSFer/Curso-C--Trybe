@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/bin/Debug/net6.0/tiposAvancados
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/bin/Debug/net6.0/tiposAvancados.deps.json
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/bin/Debug/net6.0/tiposAvancados.runtimeconfig.json
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/bin/Debug/net6.0/tiposAvancados.dll
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/bin/Debug/net6.0/ref/tiposAvancados.dll
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/bin/Debug/net6.0/tiposAvancados.pdb
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.dll
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/ref/tiposAvancados.dll
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.pdb
+/home/gustavo/Trybe-C#/tipos-avancados-em-csharp/tiposAvancados/obj/Debug/net6.0/tiposAvancados.genruntimeconfig.cache
