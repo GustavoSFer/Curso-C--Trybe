@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/5.2-datas/datas/bin/Debug/net6.0/datas
+/home/gustavo/Trybe-C#/5.2-datas/datas/bin/Debug/net6.0/datas.deps.json
+/home/gustavo/Trybe-C#/5.2-datas/datas/bin/Debug/net6.0/datas.runtimeconfig.json
+/home/gustavo/Trybe-C#/5.2-datas/datas/bin/Debug/net6.0/datas.dll
+/home/gustavo/Trybe-C#/5.2-datas/datas/bin/Debug/net6.0/ref/datas.dll
+/home/gustavo/Trybe-C#/5.2-datas/datas/bin/Debug/net6.0/datas.pdb
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.dll
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/ref/datas.dll
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.pdb
+/home/gustavo/Trybe-C#/5.2-datas/datas/obj/Debug/net6.0/datas.genruntimeconfig.cache
