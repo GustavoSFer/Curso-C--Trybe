@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/bin/Debug/net6.0/mod-de-acesso
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/bin/Debug/net6.0/mod-de-acesso.deps.json
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/bin/Debug/net6.0/mod-de-acesso.runtimeconfig.json
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/bin/Debug/net6.0/mod-de-acesso.dll
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/bin/Debug/net6.0/ref/mod-de-acesso.dll
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/bin/Debug/net6.0/mod-de-acesso.pdb
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.dll
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/ref/mod-de-acesso.dll
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.pdb
+/home/gustavo/Trybe-C#/Modificador-de-acesso/mod-de-acesso/obj/Debug/net6.0/mod-de-acesso.genruntimeconfig.cache
