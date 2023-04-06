@@ -9,7 +9,7 @@
 
     Console.WriteLine("**************************");
     // Adicionando novo item a nossa lista e imprimindo
-    nomes.Add("Celulcar");
+    nomes.Add("Celular");
 
     foreach (var item in nomes) {
       Console.WriteLine(item);
@@ -30,6 +30,11 @@
     foreach (var item in nomes) {
       Console.WriteLine(item);
     }
+   
+      Console.WriteLine("**************************");
+    // procurando elemento na nossa lista e retorna o index
+    int index = nomes.IndexOf("Roupas");
+      Console.WriteLine(index);
    
 
   }
