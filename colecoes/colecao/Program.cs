@@ -37,5 +37,17 @@
       Console.WriteLine(index);
    
 
+   Console.WriteLine("**************************");
+   // Realizando a ordenação dos elementos
+   // Primeiro vamos adicionar alguns elementos novamente
+   nomes.Add("Pessoas");
+   nomes.Add("Frutas");
+   nomes.Add("Xadrez");
+   nomes.Add("Lojas");
+
+    nomes.Sort();
+    foreach (var item in nomes) {
+      Console.WriteLine(item);
+    }
   }
 }
