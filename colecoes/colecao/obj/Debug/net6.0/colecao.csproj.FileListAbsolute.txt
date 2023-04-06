@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/colecoes/colecao/bin/Debug/net6.0/colecao
+/home/gustavo/Trybe-C#/colecoes/colecao/bin/Debug/net6.0/colecao.deps.json
+/home/gustavo/Trybe-C#/colecoes/colecao/bin/Debug/net6.0/colecao.runtimeconfig.json
+/home/gustavo/Trybe-C#/colecoes/colecao/bin/Debug/net6.0/colecao.dll
+/home/gustavo/Trybe-C#/colecoes/colecao/bin/Debug/net6.0/ref/colecao.dll
+/home/gustavo/Trybe-C#/colecoes/colecao/bin/Debug/net6.0/colecao.pdb
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.dll
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/ref/colecao.dll
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.pdb
+/home/gustavo/Trybe-C#/colecoes/colecao/obj/Debug/net6.0/colecao.genruntimeconfig.cache
