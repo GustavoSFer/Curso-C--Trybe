@@ -23,5 +23,14 @@
       Console.WriteLine(item);
     }
 
+     Console.WriteLine("**************************");
+    // Removendo o item pelo index da nossa lista
+    nomes.RemoveAt(2);
+
+    foreach (var item in nomes) {
+      Console.WriteLine(item);
+    }
+   
+
   }
 }
