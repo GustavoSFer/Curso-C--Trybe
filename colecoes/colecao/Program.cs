@@ -6,5 +6,16 @@
     foreach (var item in nomes) {
       Console.WriteLine(item);
     }
+
+    Console.WriteLine("**************************");
+    // Adicionando novo item a nossa lista e imprimindo
+    nomes.Add("Celulcar");
+
+    foreach (var item in nomes) {
+      Console.WriteLine(item);
+    }
+
+    Console.WriteLine("**************************");
+    
   }
 }
