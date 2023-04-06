@@ -16,6 +16,12 @@
     }
 
     Console.WriteLine("**************************");
-    
+    // Removendo o item "Casa" da nossa lista
+    nomes.Remove("Casa");
+
+    foreach (var item in nomes) {
+      Console.WriteLine(item);
+    }
+
   }
 }
