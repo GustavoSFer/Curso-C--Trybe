@@ -1,0 +1,15 @@
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/bin/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/bin/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.deps.json
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/bin/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.runtimeconfig.json
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/bin/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.dll
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/bin/Debug/net6.0/ref/LANGUAGE-INTEGRATED-QUERY.dll
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/bin/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.pdb
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.csproj.AssemblyReference.cache
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.AssemblyInfoInputs.cache
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.AssemblyInfo.cs
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.csproj.CoreCompileInputs.cache
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.dll
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/ref/LANGUAGE-INTEGRATED-QUERY.dll
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.pdb
+/home/gustavo/Trybe-C#/6.2-LINQ/LANGUAGE-INTEGRATED-QUERY/obj/Debug/net6.0/LANGUAGE-INTEGRATED-QUERY.genruntimeconfig.cache
