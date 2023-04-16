@@ -1,31 +1,20 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using asp.net.Models;
 
-namespace asp.net.Controllers;
-
-public class HomeController : Controller
+namespace TrybeApp.Controllers
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    public class StudentController : Controller
     {
-        _logger = logger;
-    }
-
-    public IActionResult Index()
-    {
-        return View();
-    }
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        var studentsList = new List<Student>() { 
+            new Student() { Id = 1, Name = "John", Age = 18, ClassNumber = 8 } ,
+            new Student() { Id = 2, Name = "Steve",  Age = 21, ClassNumber = 8 } 
+        };
+        public IActionResult Index()
+        {
+            // recuperar do banco aqui
+            return View("StudentsView", studentsList); // Aqui é a view que será retornada
+        }
     }
 }
