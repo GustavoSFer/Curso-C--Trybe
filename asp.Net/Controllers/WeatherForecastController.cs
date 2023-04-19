@@ -4,6 +4,7 @@ namespace asp.Net.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+// esse é a rota que usamos: WeatherForecast
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
