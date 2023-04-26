@@ -23,5 +23,17 @@ namespace APICompras.Controllers
       var items = _service.GetAllItems();
       return Ok(items);
     }
+
+    // Criando o método GET com PARAMETRO -> api/compras/5
+    [HttpGet("{id:int}")]
+    public ActionResult<CompraItem> Get(int id)
+    {
+      var item = _service.GetById(id);
+      if (item == null)
+      {
+        return NotFound();
+      }
+      return Ok(item);
+    }
   }
 }
